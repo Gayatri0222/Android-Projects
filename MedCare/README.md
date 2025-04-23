@@ -35,11 +35,8 @@
 4. **Build and Run** on an emulator or physical Android device.
 
 ## 📷 Screenshots
-> Add relevant screenshots here using the following format:
-```markdown
-### 🏠 Home Screen
-![Home-Page](https://github.com/user-attachments/assets/c57317f7-396a-4f78-b710-e37224f4a364)
-```
+![Home-Page](https://github.com/user-attachments/assets/96f3710b-fa7f-4daf-a73a-cd6a34d50792)
+
 
 ## 📬 Contact
 For any questions or collaboration opportunities, contact **[gayatriberde@gmail.com]**
